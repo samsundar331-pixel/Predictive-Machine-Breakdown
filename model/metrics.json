@@ -1,0 +1,13 @@
+{
+  "classifier": {
+    "accuracy": 0.9409,
+    "cv_mean": 0.9406,
+    "cv_std": 0.0029
+  },
+  "rul_regressor": {
+    "mae": 217.5,
+    "rmse": 338.57,
+    "r2": 0.8081
+  },
+  "model_type": "Hybrid Voting Ensemble (RF + GBM + ExtraTrees)"
+}
